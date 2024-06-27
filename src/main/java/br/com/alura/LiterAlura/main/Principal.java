@@ -122,7 +122,7 @@ public class Principal {
 
     private void listarAutoresPorAno() {
         String mensagem = "Ninguém que já foi registrado no banco de dados estava vivo neste ano...";
-        System.out.println("Insira o que deseja buscar:");
+        System.out.println("Insira o ano em que deseja buscar:");
         var ano = leitura.nextInt();
         leitura.nextLine();
         List<Autor> listaAutores = service.buscaAutoresPorAno(ano);
