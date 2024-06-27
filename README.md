@@ -96,7 +96,9 @@ E a classe e Interface restantes são responsáveis por converter dados JSON em 
 Ao executar o programa, o usuário pode escolher entre Cadastrar livros e autores, onde terá de informar o nome do livro para busca; Listar livros registrados; Listar autores registrados; Listar autores vivos em um determinado ano, onde terá de informar o ano escolhido; e Listar livros em um determinado idioma, onde terá de informar o idioma escolhido.
 
 
-https://github.com/heitor34studio/RenSound/assets/72997122/5c00dee9-c182-4a34-af78-401add7ff801
+
+https://github.com/heitor34studio/LiterAluraJava/assets/72997122/6d892f43-01f8-47bc-b1d2-de2717f30e80
+
 
 
 ---
